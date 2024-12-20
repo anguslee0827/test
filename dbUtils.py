@@ -1,7 +1,7 @@
 #!/usr/local/bin/python
 # Connect to MariaDB Platform
 import mysql.connector #mariadb
-
+#edited by user02
 try:
 	#連線DB
 	conn = mysql.connector.connect(
